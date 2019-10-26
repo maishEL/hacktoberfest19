@@ -12,4 +12,5 @@ class Program {
 ...c
 printf("hello world")
 
-
+c
+>>>print("hello world")
