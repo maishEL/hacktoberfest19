@@ -9,5 +9,6 @@ class Program {
    }
 }
 ```
-
->>>print("hello world")
+int main {
+printf("hello world")
+}
