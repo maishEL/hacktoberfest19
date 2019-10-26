@@ -9,3 +9,5 @@ class Program {
    }
 }
 ```
+
+>>>print("hello world")
