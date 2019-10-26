@@ -12,5 +12,5 @@ class Program {
 ...c
 printf("hello world")
 
-c
+python
 >>>print("hello world")
