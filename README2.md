@@ -13,3 +13,5 @@ fun helloWorld<String>{
    print(hello world) as String
 }
 ```
+
+>>>print("hello world")
